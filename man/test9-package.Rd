@@ -8,6 +8,14 @@
 \description{
 What the package does (one paragraph).
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/ramnathv/test9}
+  \item Report bugs at \url{https://github.com/ramnathv/test9/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Ramnath Vaidyanathan \email{ramnath.vaidya@gmail.com}
 
