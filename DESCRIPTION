@@ -12,5 +12,6 @@ RoxygenNote: 7.1.2
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/ramnathv/test9
+URL: https://github.com/ramnathv/test9,
+    https://ramnathv.github.io/test9
 BugReports: https://github.com/ramnathv/test9/issues
